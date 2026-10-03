@@ -1,4 +1,4 @@
-# flutter_application_pac_man
+# Flutter_pacman
 
 A new Flutter project.
 
